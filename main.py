@@ -1,8 +1,6 @@
 import cv2
 import numpy as np
 
-
-print("Package imported")
 # img read
 '''
 img = cv2.imread("Resources/lena.png")
